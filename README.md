@@ -21,7 +21,7 @@ Citeria:
 - [VIM Learning Game](https://vim-adventures.com)
 - [Library Genesis](https://www.libgen.is): Free Books and Research Articles
 - [Goodbooks.io](https://www.goodbooks.io): Great sites for Finding your next book
-
+- [Papers with Code](https://paperswithcode.com/sota)
 ## Sites with Datasources
 - [Common Crawl Project](https://commoncrawl.org/)
 - [A bunch of ZIM files + More](https://ftp.fau.de/)
