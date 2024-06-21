@@ -6,27 +6,27 @@ Citeria:
 
 
 ## Sites I found Interesting
-[Systems Thinking: Great for mapping real life events using an Engineers POV](https://thesystemsthinker.com)
-[Harvard Business Review](https://hbr.org)
-[Hackaday.com](https://hackaday.com)
-[Chris Mendez Blog](https://www.chrisjmendez.com)
-[Illustrated Guide to AI](https://illustrated-machine-learning.github.io)
+- [Systems Thinking](https://thesystemsthinker.com): Great for mapping real life events using an Engineers POV
+- [Harvard Business Review](https://hbr.org)
+- [Hackaday.com](https://hackaday.com)
+- [Chris Mendez Blog](https://www.chrisjmendez.com)
+- [Illustrated Guide to AI](https://illustrated-machine-learning.github.io)
 
 ## Market Research/Idea Generation Sites
-[Product Hunt: A place to find new Tech Products](https://www.producthunt.com)
-[Boring Cash Cow: Boring Business Inspo](https://boringcashcow.com)
-[Empire Flippers: Buy and Sell Businesses](https://empireflippers.com)
+- [Product Hunt](https://www.producthunt.com): A place to find new Tech Products
+- [Boring Cash Cow](https://boringcashcow.com): Boring Business Inspo
+- [Empire Flippers](https://empireflippers.com): Buy and Sell Businesses
 
 ## Sites I use for Learning
-[VIM Learning Game](https://vim-adventures.com)
-[Library Genesis: Free Books and Research Articles](https://www.libgen.is)
-[Goodbooks.io: Great sites for Finding your next book](https://www.goodbooks.io)
+- [VIM Learning Game](https://vim-adventures.com)
+- [Library Genesis](https://www.libgen.is): Free Books and Research Articles
+- [Goodbooks.io](https://www.goodbooks.io): Great sites for Finding your next book
 
 ## Sites with Datasources
-[Common Crawl Project](https://commoncrawl.org/)
-[A bunch of ZIM files + More](https://ftp.fau.de/)
-[R-Project (A list of CRAN Packages)](https://cran.r-project.org/web/packages/available_packages_by_name.html)
+- [Common Crawl Project](https://commoncrawl.org/)
+- [A bunch of ZIM files + More](https://ftp.fau.de/)
+- [R-Project](https://cran.r-project.org/web/packages/available_packages_by_name.html): A list of CRAN Packages
 
-## API's
-[Public API List Github](https://github.com/public-api-lists/public-api-lists)
+## Free API's
+- [Public API List Github](https://github.com/public-api-lists/public-api-lists)
 
