@@ -11,7 +11,10 @@ Citeria:
 - [Hackaday.com](https://hackaday.com)
 - [Chris Mendez Blog](https://www.chrisjmendez.com)
 - [Illustrated Guide to AI](https://illustrated-machine-learning.github.io)
-
+- [Explain That Stuff](https://www.explainthatstuff.com)
+- [Full Context Development](https://www.fullcontextdevelopment.com)
+- [Machine Learning Academy](https://e2eml.school/blog.html)
+  
 ## Market Research/Idea Generation Sites
 - [Product Hunt](https://www.producthunt.com): A place to find new Tech Products
 - [Boring Cash Cow](https://boringcashcow.com): Boring Business Inspo
@@ -22,7 +25,9 @@ Citeria:
 - [Library Genesis](https://www.libgen.is): Free Books and Research Articles
 - [Goodbooks.io](https://www.goodbooks.io): Great sites for Finding your next book
 - [Papers with Code](https://paperswithcode.com/sota)
+  
 ## Sites with Datasources
+- [Our World In Data](https://ourworldindata.org/)
 - [Common Crawl Project](https://commoncrawl.org/)
 - [A bunch of ZIM files + More](https://ftp.fau.de/)
 - [R-Project](https://cran.r-project.org/web/packages/available_packages_by_name.html): A list of CRAN Packages
